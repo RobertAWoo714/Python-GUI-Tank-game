@@ -5,7 +5,6 @@
 from math import sqrt, sin, cos, radians, degrees
 from graphics import *
 from projectile import Projectile
-from button import Button
 import random
 import time
 
